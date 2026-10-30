@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+**/build/
+**/.cxx/
+local.properties
+.idea/
+*.jks
+*.keystore
+.env*
+*.log
+artifacts/
+dist/

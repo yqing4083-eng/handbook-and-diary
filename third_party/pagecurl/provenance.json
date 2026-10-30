@@ -1,0 +1,9 @@
+{
+  "sourcesSha256": "E2D27E537D966B68E15B971B4E6AD03574C58E02738F83CDBD0D52F272BCC296",
+  "modified": false,
+  "source": "https://github.com/oleksandrbalan/pagecurl/tree/v1.5.1",
+  "license": "Apache-2.0",
+  "dependency": "io.github.oleksandrbalan:pagecurl:1.5.1",
+  "tag": "v1.5.1",
+  "aarSha256": "C324390452A5E23FDA555227162D7F22BA7819ED075D758117EE4B38D2846BA8"
+}

@@ -1,0 +1,47 @@
+[versions]
+agp = "8.13.2"
+kotlin = "2.3.10"
+ksp = "2.3.5"
+hilt = "2.58"
+compose-bom = "2026.02.01"
+activity = "1.10.1"
+lifecycle = "2.9.1"
+navigation = "2.9.1"
+core = "1.16.0"
+coroutines = "1.10.2"
+junit = "4.13.2"
+
+[libraries]
+androidx-core = { module = "androidx.core:core-ktx", version.ref = "core" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activity" }
+androidx-lifecycle-runtime = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "lifecycle" }
+androidx-lifecycle-viewmodel = { module = "androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "lifecycle" }
+androidx-navigation = { module = "androidx.navigation:navigation-compose", version.ref = "navigation" }
+compose-bom = { module = "androidx.compose:compose-bom", version.ref = "compose-bom" }
+compose-ui = { module = "androidx.compose.ui:ui" }
+compose-foundation = { module = "androidx.compose.foundation:foundation" }
+compose-animation = { module = "androidx.compose.animation:animation" }
+compose-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview" }
+compose-tooling = { module = "androidx.compose.ui:ui-tooling" }
+hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
+hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hilt" }
+coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "coroutines" }
+coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
+coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutines" }
+androidx-datastore = { module = "androidx.datastore:datastore-preferences", version = "1.1.7" }
+junit = { module = "junit:junit", version.ref = "junit" }
+liquid-backdrop = { module = "io.github.kyant0:backdrop", version = "1.0.6" }
+liquid-shapes = { module = "io.github.kyant0:shapes", version = "1.2.0" }
+pagecurl = { module = "io.github.oleksandrbalan:pagecurl", version = "1.5.1" }
+room-runtime = { module = "androidx.room:room-runtime", version = "2.8.4" }
+room-ktx = { module = "androidx.room:room-ktx", version = "2.8.4" }
+room-compiler = { module = "androidx.room:room-compiler", version = "2.8.4" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+android-library = { id = "com.android.library", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }

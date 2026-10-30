@@ -1,0 +1,27 @@
+{
+  "license": "Apache-2.0",
+  "demoImagesIncluded": false,
+  "frameExactPaperReplicationVerified": false,
+  "importedFiles": [
+    {
+      "upstreamSha256": "EFEDDB8D922DF6618C5C3CFBB4B825805AC8C8EF23180460A817723F606964FB",
+      "copiedSha256": "EFEDDB8D922DF6618C5C3CFBB4B825805AC8C8EF23180460A817723F606964FB",
+      "file": "CurlMesh.java",
+      "unchanged": true
+    },
+    {
+      "upstreamSha256": "D592DD3B0CDE83F9835E54196DDB302AA8B2FDE665B198B3A53B1F5D6AD494B6",
+      "copiedSha256": "D592DD3B0CDE83F9835E54196DDB302AA8B2FDE665B198B3A53B1F5D6AD494B6",
+      "file": "CurlPage.java",
+      "unchanged": true
+    }
+  ],
+  "archiveSha256": "AC1DA9AB787C159FE9660A3ED319B1F0E27A502E6E82D30D3C123D7DC36D5FD0",
+  "source": "https://github.com/harism/android-pagecurl",
+  "snapshotDate": "2026-10-05",
+  "visualReference": "https://apps.apple.com/us/app/paper-sketch-draw-create/id506003812",
+  "adapter": "BookSceneView.kt: transparent TextureView/EGL host, perspective, solid geometry, original CurlMesh",
+  "ref": "master",
+  "status": "archived: replaced by centre-hinged geometry after user video review",
+  "archivedSource": "third_party/harism-pagecurl/archived-source"
+}

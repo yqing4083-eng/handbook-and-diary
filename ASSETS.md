@@ -1,0 +1,52 @@
+# 素材与发行版差异
+
+本仓库中的位图均为程序生成的简约占位图，采用 MIT 许可。原应用中由用户提供的封面、贴纸、纸纹、图标及仿真笔图片，因未提供可核验的再分发许可，未上传 GitHub。运行时可自行导入有权使用的图片。Android 源码与功能模块完整，视觉素材与本地安装包有所不同。未包含 Apple 字体文件或参考视频。
+
+已替换资源：
+- `app\src\main\res\drawable-nodpi\neo_book_mark.png`
+- `data\local\src\main\assets\book-covers\v2_01_78a3bd.webp`
+- `data\local\src\main\assets\book-covers\v2_02_758456.webp`
+- `data\local\src\main\assets\book-covers\v2_03_93b9d0.webp`
+- `data\local\src\main\assets\book-covers\v2_04_343434.webp`
+- `data\local\src\main\assets\book-covers\v2_05_6bc6c9.webp`
+- `data\local\src\main\assets\book-covers\v2_06_70adcb.webp`
+- `data\local\src\main\assets\book-covers\v2_07_9b8ac5.webp`
+- `data\local\src\main\assets\book-covers\v2_08_65b7c8.webp`
+- `data\local\src\main\assets\book-covers\v2_09_454342.webp`
+- `data\local\src\main\assets\book-covers\v2_10_6aa4bf.webp`
+- `data\local\src\main\assets\book-covers\v2_11_bb8bd0.webp`
+- `data\local\src\main\assets\book-covers\v2_12_6c9d46.webp`
+- `data\local\src\main\assets\book-covers\v2_13_52afcd.webp`
+- `data\local\src\main\assets\book-covers\v2_14_ec6963.webp`
+- `data\local\src\main\assets\book-covers\v2_15_ac7951.webp`
+- `data\local\src\main\assets\book-covers\v2_16_f18fb5.webp`
+- `data\local\src\main\assets\book-covers\v2_17_ee91b0.webp`
+- `data\local\src\main\assets\book-covers\v2_18_19345a.webp`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_01.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_02.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_03.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_04.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_05.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_06.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_07.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_08.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_09.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_10.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_11.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_12.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_13.png`
+- `feature\diary\src\main\assets\paper-wallpapers\paper_14.png`
+- `feature\diary\src\main\assets\stickers\sheet-00.png`
+- `feature\diary\src\main\assets\stickers\sheet-01.png`
+- `feature\diary\src\main\assets\stickers\sheet-02.png`
+- `feature\diary\src\main\assets\stickers\sheet-03.png`
+- `feature\diary\src\main\assets\stickers\sheet-04.png`
+- `feature\diary\src\main\assets\stickers\sheet-05.png`
+- `feature\diary\src\main\assets\stickers\sheet-06.png`
+- `feature\diary\src\main\assets\stickers\sheet-07.png`
+- `feature\diary\src\main\assets\stickers\sheet-08.png`
+- `feature\diary\src\main\assets\stickers\sheet-09.png`
+- `feature\diary\src\main\assets\stickers\sheet-10.png`
+- `feature\diary\src\main\assets\stickers\sheet-11.png`
+- `feature\diary\src\main\assets\stickers\sheet-12.png`
+- `feature\diary\src\main\res\drawable-nodpi\editor_tools_atlas.png`
